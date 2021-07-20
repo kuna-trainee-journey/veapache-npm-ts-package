@@ -1,6 +1,6 @@
 {
   "name": "veapache-npm-ts-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,8 +14,7 @@
     "prettier:fix": "prettier --write 'src/**/*.ts'",
     "prepare" : "npm run build",
     "prepublishOnly" : "npm run test && npm run coverage && npm run eslint",
-    "version" : "npm version patch && npm run prettier:fix && git add . && git commit - 'New package release'",
-    "postversion" : "git push"
+    "version" : "npm run prettier:fix"
   },
   "repository": {
     "type": "git",
