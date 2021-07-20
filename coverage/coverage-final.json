@@ -1,1 +1,2 @@
-{}
+{"/home/max/Kuna/tasks/task_1/veapache-npm-ts-package/src/index.ts": {"path":"/home/max/Kuna/tasks/task_1/veapache-npm-ts-package/src/index.ts","statementMap":{"0":{"start":{"line":1,"column":34},"end":{"line":1,"column":69}},"1":{"start":{"line":1,"column":68},"end":{"line":1,"column":74}},"2":{"start":{"line":1,"column":13},"end":{"line":1,"column":34}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":34},"end":{"line":1,"column":35}},"loc":{"start":{"line":1,"column":55},"end":{"line":1,"column":69}}}},"branchMap":{},"s":{"0":1,"1":2,"2":1},"f":{"0":2},"b":{}}
+}
